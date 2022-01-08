@@ -33,7 +33,7 @@ include'fungsi/fungsi_rupiah.php';
             <div class="col-lg-12">
               <div class="card mb-4">
                 <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-                  <a class='btn btn-primary' href='add_beras.php' ><i class='fa fa-plus'></i> Tambah Mahasiswa</a>
+                  <a class='btn btn-primary' href='tambahmahasiswa.php' ><i class='fa fa-plus'></i> Tambah Mahasiswa</a>
                 </div>
                 <div class="table-responsive p-3">
                   <table class="table align-items-center table-flush table-hover" id="dataTableHover">
