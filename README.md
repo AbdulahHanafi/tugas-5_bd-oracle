@@ -9,6 +9,9 @@
 4. Gunakan query count untuk menampilkan jumlah data dari view
 ![Jumlah data dari view](https://user-images.githubusercontent.com/45525482/148081696-a4bddf54-3dc1-40d3-b4bb-348eed01e292.PNG)
 5. Buat menu tampilan data untuk master data
-![menu tampil data](https://user-images.githubusercontent.com/45525482/148081879-2cfd2bcf-4928-42e9-a202-0101ea0c3703.PNG)
+
+![menu tampil data](![hasil insert admin](https://user-images.githubusercontent.com/45525482/148652815-a28f6c3c-3fe0-4d27-805c-c79608e7e910.PNG)
 ![menu hapus data](https://user-images.githubusercontent.com/45525482/148081901-89fc9e17-db30-40cd-8f9b-687e42ab354c.PNG)
+![mahasiswa](https://user-images.githubusercontent.com/45525482/148652889-76193b74-b913-4f69-bbc1-c6a8cd2b42d3.PNG)
+
 
